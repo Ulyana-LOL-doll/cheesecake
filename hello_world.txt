@@ -1,9 +1,9 @@
 Lorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
-Adsdadsaenean commodo ligula eget dolor.  
+Adsdadsaenean commodo ligula eget dolor.
 Aenedsdaan massa.  
 Cum sociis natoque penatibus et magnis dis parturient montes,  
-nascetur ridiculus mus 0.
+nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
-Nulla consequat massa quis enim.AMIT'S CHANGINGS
+Nam massa sit amet felis.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
